@@ -1,0 +1,58 @@
+﻿<!DOCTYPE HTML>
+
+<html>
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<title>百度一下，你就知道</title>
+<style type="text/css">
+div{text-align:right;}
+body{text-align:center;}
+.bri {
+    text-decoration:none;
+    font-weight: bold;
+    color: white;
+    background: #38f;}
+</style>
+</head>
+
+<div id="更多">
+<ul>
+<u><B><span>新闻</span>
+<span>hao123</span>
+<span>地图</span>
+<span>视频</span>
+<span>贴吧</span>
+<span>学术</span></B>
+<span>登录</span>
+<span>设置</span></u>
+<span class="bri">更多产品</span>
+</ul>
+</div>
+<br />
+<br />
+<body>
+<img src="4.png"title="百度"style="width:248px;height:68px;">
+<br />
+<br />
+<br />
+<form  method="post" action="save.php">   
+<input class="text" type="text" name="随意"  style="width: 500px;height:30px;font-color:#2894FF; font-size:12px;border-right:none;
+" />
+<input type="submit" value="百度一下"  style="width: 100px;height:40px;color:white;background-color:#2894FF;border:none"/> 
+</form>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<img src="3.png"title="手机百度"style="width:118px;height:103px;">
+<br />
+<img src="2.png"title="百度故事"style="width:540px;height:58px;">
+</body>
+
+</html>
